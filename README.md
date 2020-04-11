@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# TuDo Android App Gif
+![](https://github.com/faizanmohiuddin482/TuDo/blob/master/TuDo%20Screen%20Recording%20Gif.gif)
+
+#TuDo on Web
+![](https://github.com/faizanmohiuddin482/TuDo/blob/master/TuDo%20Web.png)
