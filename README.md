@@ -1,4 +1,4 @@
-# todo
+# TuDo
 
 A ToDo App
 
